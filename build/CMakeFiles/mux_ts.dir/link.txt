@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -Wall  -rdynamic CMakeFiles/mux_ts.dir/FileStream.o CMakeFiles/mux_ts.dir/PCR.o CMakeFiles/mux_ts.dir/main.o CMakeFiles/mux_ts.dir/pat.o CMakeFiles/mux_ts.dir/pes.o CMakeFiles/mux_ts.dir/pmt.o CMakeFiles/mux_ts.dir/ts.o CMakeFiles/mux_ts.dir/ts_decoder.o CMakeFiles/mux_ts.dir/ts_encoder.o  -o mux_ts   -L/home/yanghe/teddy/project_app/en_de_ts/ffmpeg/lib 

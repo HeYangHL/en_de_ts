@@ -1,0 +1,3 @@
+/home/yanghe/teddy/project_app/en_de_ts/build/CMakeFiles/edit_cache.dir
+/home/yanghe/teddy/project_app/en_de_ts/build/CMakeFiles/rebuild_cache.dir
+/home/yanghe/teddy/project_app/en_de_ts/build/CMakeFiles/mux_ts.dir
